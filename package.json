@@ -1,0 +1,12 @@
+{
+  "name": "erlan-luxe-premium",
+  "version": "1.0.0",
+  "description": "Premium Web Interface",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
